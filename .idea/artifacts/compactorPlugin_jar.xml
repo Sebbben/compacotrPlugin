@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="compactorPlugin:jar">
+    <output-path>$USER_HOME$/Documents/minecraftServers/testServer/plugins</output-path>
+    <root id="archive" name="compactorPlugin.jar">
+      <element id="module-output" name="compactorPlugin" />
+    </root>
+  </artifact>
+</component>

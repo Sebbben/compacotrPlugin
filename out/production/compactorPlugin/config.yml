@@ -1,0 +1,14 @@
+materials:
+  needs_nine_to_craft:
+    iron_ingot : "iron_block"
+    iron_nugget : "iron_ingot"
+    gold_ingot : "gold_block"
+    gold_nugget : "gold_ingot"
+    redstone : "redstone_block"
+    diamond : "diamond_block"
+    emerald : "emerald_block"
+    coal : "coal_block"
+  needs_four_to_craft:
+    glowstone_dust: "glowstone"
+    honeycomb : "honeycomb_block"
+    quartz : "quartz_block"
